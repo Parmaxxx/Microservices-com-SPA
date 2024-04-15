@@ -1,0 +1,42 @@
+[
+    {
+        "id": "aa7c8c04-5f1d-4774-9d96-920c7c6c0552",
+        "nome": "HD",
+        "preco": 2000.0
+    },
+    {
+        "id": "d7ce704d-01d6-4c5f-914b-919fb549d189",
+        "nome": "PLACA DE VIDEO",
+        "preco": 12000.0
+    },
+    {
+        "id": "9cfa52ac-f870-4329-92e9-be168ac928fe",
+        "nome": "TECLADO",
+        "preco": 500.0
+    },
+    {
+        "id": "c297d18c-fc54-4fca-a8ef-ed0decaef71d",
+        "nome": "CANETA",
+        "preco": 500.0
+    },
+    {
+        "id": "d9595c2f-00e8-45df-8e91-8a8980de798b",
+        "nome": "CELULAR",
+        "preco": 100000.0
+    },
+    {
+        "id": "e62149ad-5d0b-45a3-98e6-fe078147ba6f",
+        "nome": "ESTOJO",
+        "preco": 10.0
+    },
+    {
+        "id": "b8889ebe-f24a-48b2-90da-58c6da84ecb8",
+        "nome": "MOUSE",
+        "preco": 100.0
+    },
+    {
+        "id": "6ccb78fe-3999-45c2-8f34-e4ee6f937226",
+        "nome": "GARRAFA",
+        "preco": 10.0
+    }
+]

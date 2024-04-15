@@ -1,0 +1,98 @@
+[
+    {
+        "order_id": "442a1253-ae57-4cba-b1f3-8506a9943657",
+        "itens": [
+            {
+                "produto": "teclado",
+                "quantidade": 3,
+                "preco_unitario": 500.0,
+                "preco_total_item": 1500.0
+            },
+            {
+                "produto": "Caderno",
+                "quantidade": 2,
+                "preco_unitario": 15.0,
+                "preco_total_item": 30.0
+            }
+        ],
+        "preco_total_pedido": 1530.0
+    },
+    {
+        "order_id": "8357dcf3-f733-494c-9f9a-4c218305e1d4",
+        "itens": [
+            {
+                "produto": "teclado",
+                "quantidade": 3,
+                "preco_unitario": 500.0,
+                "preco_total_item": 1500.0
+            },
+            {
+                "produto": "Caneta",
+                "quantidade": 2,
+                "preco_unitario": 500.0,
+                "preco_total_item": 1000.0
+            }
+        ],
+        "preco_total_pedido": 2500.0
+    },
+    {
+        "order_id": "c0ed06fb-dfc9-468a-82da-d1f1ef52fc4a",
+        "itens": [
+            {
+                "produto": "mouse",
+                "quantidade": 5,
+                "preco_unitario": 100.0,
+                "preco_total_item": 500.0
+            }
+        ],
+        "preco_total_pedido": 500.0
+    },
+    {
+        "order_id": "35d7d868-d185-409e-acad-7b3bd161aacc",
+        "itens": [
+            {
+                "produto": "HD",
+                "quantidade": 5,
+                "preco_unitario": 2000.0,
+                "preco_total_item": 10000.0
+            }
+        ],
+        "preco_total_pedido": 10000.0
+    },
+    {
+        "order_id": "6a85914f-554b-479e-a84c-e1d5a72dbb99",
+        "itens": [
+            {
+                "produto": "teclado",
+                "quantidade": 5,
+                "preco_unitario": 100.0,
+                "preco_total_item": 500.0
+            }
+        ],
+        "preco_total_pedido": 500.0
+    },
+    {
+        "order_id": "9ff0f47d-9ac5-4ef5-8f0b-dbeb33fb8399",
+        "itens": [
+            {
+                "produto": "mouse",
+                "quantidade": 7,
+                "preco_unitario": 100.0,
+                "preco_total_item": 700.0
+            }
+        ],
+        "preco_total_pedido": 700.0
+    },
+    {
+        "order_id": "cf104b46-d4bf-444f-83b9-4a7dde7f399a",
+        "itens": [
+            {
+                "produto": "garrafa",
+                "quantidade": 5,
+                "preco_unitario": 10.0,
+                "preco_total_item": 50.0
+            }
+        ],
+        "preco_total_pedido": 50.0
+    }
+]
